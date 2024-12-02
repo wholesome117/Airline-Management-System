@@ -1,1 +1,1 @@
-The given project is a simple management website for a an airline company. This is an admin based website where the airline admin can 
+The given project is a simple management website for a an airline company. This is an admin based website where the airline admin can add customers, book flights and issue boarding pass to them. The project uses awt and swing technologies for the front end purpose while JDBC has been used to connect the web portal with mysql database that has information about customers, flights, tickets and cancellations.
